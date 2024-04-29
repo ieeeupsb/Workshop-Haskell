@@ -9,7 +9,7 @@ layout: intro
 
 # Workshop
 
-![](assets/haskell.png){width=500px}
+![](/haskell.png){width=500px}
 
 <div class="absolute bottom-10">
 	<span class="font-700">
@@ -18,7 +18,7 @@ layout: intro
 </div>
 
 <div class="absolute bottom-10 right-10">
-	<img src="assets/ieeeupsb.png" alt="IEEE UPSB" width="200px">
+	<img src="/ieeeupsb.png" alt="IEEE UPSB" width="200px">
 </div>
 
 ---
