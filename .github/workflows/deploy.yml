@@ -12,7 +12,7 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Build
-        run: slidev build --base /Workshop-Haskell/ 
+        run: npx slidev build --base /Workshop-Haskell/ 
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
